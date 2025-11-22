@@ -1,3 +1,4 @@
+//wap to find the area of the rectangle
 #include<stdio.h>
 
 int main(){
@@ -11,4 +12,5 @@ int main(){
 
     printf("The area of this rectangle is %d", length*breath);
     return 0;
+
 } 
